@@ -1,4 +1,4 @@
-#My Portfolio
+My Portfolio
 <br>
 Don't change the file names or hierarchy
 <br>
